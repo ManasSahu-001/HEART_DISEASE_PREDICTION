@@ -4,4 +4,4 @@ seaborn
 matplotlib
 scikit-learn
 streamlit
--e . ## automatically triggerr setup.py for installing the package
+ ## automatically triggerr setup.py for installing the package
